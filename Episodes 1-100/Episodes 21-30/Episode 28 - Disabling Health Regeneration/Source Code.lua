@@ -47,4 +47,6 @@ This is Episode 28 of the tutorial series that teaches you ROBLOX Studio fundame
 
 The full list of instructional scripts from this series can be
 found through the ROBLOX group that posted this model.
+
+(But since you're reading this on the GitHub, you're already here!)
 ]]--
