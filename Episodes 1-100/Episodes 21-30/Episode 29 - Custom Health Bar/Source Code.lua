@@ -5,7 +5,7 @@ Tutorial Link: ( https://youtu.be/RzPi-uHslP8 )
 
 This is the non-annotated version of the script.
 For comments that explain every line, please refer to the "Custom Health Bar Model.rbxm" file in the folder that contains this Source Code
-(The other file contains the tutorial model that was uploaded to the Roblox website)
+(That file contains the tutorial model that was uploaded to the Roblox website)
 
 ]]--
 
