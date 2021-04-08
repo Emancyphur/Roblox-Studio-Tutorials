@@ -9,7 +9,7 @@ This repository will be updated semi-regularly (around the release of each tutor
 
 In order to find what you need, open up one of the folders above. They're categorized by Episode number -- the folder "Episodes 1-100" will have subfolders that contain resources from Episodes 1-10, 11-20, 21-30, etc.
 
-After opening up one of the subfolders, you'll be presented with folders that have the name of a tutorial. These will contain source code/model download files related to that tutorial when applicable.
+After opening up one of the subfolders, you'll be presented with folders that have the name of a tutorial. These will contain source code/model download files related to that tutorial when applicable. In order to import the model into Roblox Studio, right click in the Explorer, click on "Insert From File", then select and open the rbxm file.
 
 ---
 
