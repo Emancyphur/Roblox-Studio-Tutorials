@@ -135,6 +135,7 @@ end)
 
 
 ------ LocalScript ------
+
 local ScreenGui = script.Parent
 local Menu = ScreenGui.Menu
 local MainFrame = ScreenGui:WaitForChild("MainFrame")
