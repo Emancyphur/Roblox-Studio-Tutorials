@@ -15,4 +15,4 @@ After opening up one of the subfolders, you'll be presented with folders that ha
 
 ## Questions/Feedback
 
-If you have questions or feedback related to this GitHub Repository, please let me know by either messaging me on the Roblox Developer Forum, posting a comment on one of my videos, creating a thread on this repository's "Discussions" tab, creating a pull request, or posting it in the feedback text channel of my [community Discord server](https://discord.gg/RNtmZVC).
+If you have questions or feedback related to this GitHub Repository, please let me know by either messaging me on the Roblox Developer Forum, posting a comment on one of my videos, creating a thread on this repository's "Discussions" tab, creating a pull request, or posting it in the feedback text channel of our community Discord server.
