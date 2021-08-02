@@ -4,7 +4,7 @@ Episode 4 - Jailbreak Prison Escape Script
 Tutorial Link: ( https://youtu.be/5DaDfDkKRyo )
 
 This is the non-annotated version of the script.
-For comments that explain every line, please refer to the "Team Custom Characters System.rbxm" file in the folder that contains this Source Code
+For comments that explain every line, please refer to the "Auto Team Change Tutorial Model.rbxm" file in the folder that contains this Source Code
 
 ]]--
 
