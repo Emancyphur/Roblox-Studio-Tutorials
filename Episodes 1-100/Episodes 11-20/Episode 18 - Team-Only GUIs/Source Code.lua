@@ -14,7 +14,11 @@ local Players = game:GetService("Players")
 local ServerStorage = game:GetService("ServerStorage")
 local Teams = game:GetService("Teams")
 
+local RunService = game:GetService("RunService")
+
 local function updateGuis(player)
+	
+	RunService.Stepped:Wait()
 	
 	local PlayerGui = player:WaitForChild("PlayerGui")
 	
