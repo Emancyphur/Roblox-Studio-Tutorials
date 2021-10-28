@@ -1,5 +1,5 @@
-# ROBLOX-Studio-Tutorials
-This contains the source code for scripts from my [ROBLOX Studio Tutorial Series](https://www.youtube.com/playlist?list=PLib8lkKsQ4i4Ik77nxD78NfMoeUoS_9w7) on the [Asians FTW](https://www.youtube.com/AsiansFTW) YouTube Channel, in addition to tutorial setup models that can be imported into ROBLOX Studio.
+# Roblox-Studio-Tutorials
+This contains the source code for scripts from my [Roblox Studio Tutorial Series](https://www.youtube.com/playlist?list=PLib8lkKsQ4i4Ik77nxD78NfMoeUoS_9w7) on the [Asians FTW](https://www.youtube.com/AsiansFTW) YouTube Channel, in addition to tutorial setup models that can be imported into ROBLOX Studio.
 
 This repository will be updated semi-regularly (around the release of each tutorial).
 
