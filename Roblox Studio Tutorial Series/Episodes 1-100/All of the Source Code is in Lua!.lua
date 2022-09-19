@@ -6,10 +6,11 @@ https://roblox.github.io/luau/
 
 local GitHub = Internet:GetWebsite("GitHub")
 
-local Profile = GitHub["Asians-FTW"]
-local MyRepository = Profile["ROBLOX-Studio-Tutorials"]
+local Profile = GitHub["Emancyphur"]
+local MyRepository = Profile["Roblox-Studio-Tutorials"]
 
-local EpisodeList = MyRepository["Episodes 1-100"]
+local ChosenPlaylist = MyRepository["Roblox Studio Tutorial Series"]
+local EpisodeList = ChosenPlaylist["Episodes 1-100"]
 local SourceCodeNote = EpisodeList["All of the Source Code is in Lua!.lua"]
 
 local function hi(Reader)
@@ -27,9 +28,9 @@ end)
 
 --[[
 
-This is the GitHub that contains the contents from Asians FTW's ROBLOX Studio tutorial series!
+This is the GitHub Repository that contains the contents from Emancyphur's Roblox Studio Tutorial Series!
 Thanks for reading!
 
-- Asians FTW
+- Emancyphur
 
 ]]--
