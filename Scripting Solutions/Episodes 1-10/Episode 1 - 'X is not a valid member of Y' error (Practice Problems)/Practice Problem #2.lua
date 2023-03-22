@@ -27,4 +27,14 @@ This is Episode 1 of Emancyphur's Scripting Solutions Tutorial Series!
 The full list of practice problem models from this series can be
 found through the description of the Roblox group that posted this model.
 
+
+
+This model / script was originally published to the Roblox Creator Marketplace by the following group: Emancyphur
+
+IF the model that contains this script was NOT published by either:
+1. The group called "Emancyphur"
+2. The user named "Emancyphur"
+3. Or the user named "StrongBigeMan9"
+it may have been modified from its original state; in that case, use AT YOUR OWN RISK!
+
 ]]--
