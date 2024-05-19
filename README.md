@@ -1,5 +1,5 @@
 # Roblox-Studio-Tutorials
-This contains the source code for scripts from the [Roblox Studio Tutorial Series](https://www.youtube.com/playlist?list=PLib8lkKsQ4i4Ik77nxD78NfMoeUoS_9w7) (and soon other development-related content) on the [Emancyphur](https://www.youtube.com/Emancyphur) YouTube Channel, in addition to tutorial setup models that can be imported into Roblox Studio.
+This contains the source code for scripts from the [Roblox Studio Tutorial Series](https://www.youtube.com/playlist?list=PLib8lkKsQ4i4Ik77nxD78NfMoeUoS_9w7) and the [Scripting Solutions](https://www.youtube.com/playlist?list=PLib8lkKsQ4i6j_3D7e5KI6kvBupf4ZtYm) tutorial series on the [Emancyphur](https://www.youtube.com/Emancyphur) YouTube Channel, in addition to tutorial setup models (in `rbxl` files) that can be imported into Roblox Studio.
 
 This repository will be updated semi-regularly (around the release of each tutorial).
 
@@ -13,6 +13,6 @@ After opening up one of the subfolders, you'll be presented with folders that ha
 
 ---
 
-## Questions/Feedback
+## Questions / Feedback
 
-If you have questions or feedback related to this GitHub Repository, please let me know by either messaging me on the Roblox Developer Forum, posting a comment on one of my videos, creating a thread on this repository's "Discussions" tab, creating a pull request, or posting it in the feedback text channel of our community Discord server.
+If you have questions or feedback related to this GitHub Repository, please let me know by either creating a thread in this repository's "Discussions" section, posting a comment on one of my videos, messaging me on the Roblox Developer Forum, or posting it in the "youtube-main" forum of the "Emancyphur Community Server".
